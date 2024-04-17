@@ -1,0 +1,6 @@
+#menu02{color: black;}
+#menu01{color: black;box-shadow: none;text-decoration: none;}
+.headmenu{background-color: white; display:flex;flex-direction:nowrap;border: 2px black solid;margin-bottom: 20px;}
+.head{background-color: black;color: white;padding: 5px;}
+.text{background-color: white;color: black;padding: 8px;border: 2px black solid;margin-bottom: 20px;}
+.pageend{border: 2px black solid;}
